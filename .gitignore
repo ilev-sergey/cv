@@ -1,0 +1,12 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.xdv
+*.synctex.gz
+
+resume/
+resume.tex
+resume.pdf
+coverletter.tex
